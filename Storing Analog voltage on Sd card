@@ -1,3 +1,5 @@
+//Determining Voltages of Analog Pins after every 5 sec and Storing them in SD card
+
 #include <SPI.h>
 #include <SD.h>
 
